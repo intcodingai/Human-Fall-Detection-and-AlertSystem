@@ -22,9 +22,15 @@ Steps to execute:
 
 
 
-![fall detected](https://user-images.githubusercontent.com/103498011/172386295-612f719c-4a64-4cb4-8547-a1a45cd2240b.gif)
 
-![image](https://user-images.githubusercontent.com/103498011/172386393-29fff9ce-0f4e-46e3-a245-ac432a6ebc27.png)
+
 
 Alert email
-![image](https://user-images.githubusercontent.com/103498011/172388396-a660b129-d108-4e37-a07e-bef4e2c0e176.png)
+
+
+![email alert sample](https://user-images.githubusercontent.com/103498011/172390911-ad1ef36c-b9b8-48cb-b335-5e7968b909e3.jpeg)
+
+SMS alert sample
+
+
+![sms alert sample](https://user-images.githubusercontent.com/103498011/172391029-119d4bd2-5c53-449a-8a38-95a79f814f26.jpeg)
