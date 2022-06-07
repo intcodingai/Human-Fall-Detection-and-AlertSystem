@@ -33,4 +33,6 @@ Alert email
 SMS alert sample
 
 
-![sms alert sample](https://user-images.githubusercontent.com/103498011/172391029-119d4bd2-5c53-449a-8a38-95a79f814f26.jpeg)
+![sms alert sample](https://user-images.githubusercontent.com/103498011/172391815-120b123d-143f-4aa8-a3a1-2a38eb1e5321.jpeg)
+
+
